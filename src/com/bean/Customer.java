@@ -46,4 +46,31 @@ public class Customer {
     public void setBirthday(String birthday) {
         this.birthday = birthday;
     }
+
+    public String getFlightId() {
+        return null;
+    }
+
+    public String getPlaneType() {
+        return null;
+    }
+
+    public Object getCurrentSeatsNum() {
+        return null;
+    }
+    public Object getDapartureAirPort() {
+        return null;
+    }
+
+    public String getDestinationAirPort() {
+        return null;
+    }
+
+    public String getDepartureTime() {
+        return null;
+    }
+
+    public String getDepartureAirPort() {
+        return null;
+    }
 }
